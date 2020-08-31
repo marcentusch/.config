@@ -9,3 +9,7 @@ call plug#end()
 set nocompatible
 filetype plugin on
 syntax on
+
+" Add autocompletion with <C-x> + <C-o>
+filetype plugin on
+set omnifunc=syntaxcomplete#Complete
