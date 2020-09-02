@@ -2,6 +2,7 @@ call plug#begin()
 Plug 'mattn/emmet-vim'
 Plug 'vimwiki/vimwiki'
 Plug 'ap/vim-css-color'
+Plug 'preservim/nerdtree'
 call plug#end()
 
 " For vim-wiki to work properly i need this
