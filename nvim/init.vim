@@ -28,10 +28,11 @@ set wildmenu                   " Great command-line completion, use `<Tab>` to m
                                " around and `<CR>` to validate.
 
 
-
 " { brackets auto close
 inoremap { {<CR>}<Esc>ko
 
 " linenumbers relative
 set number                     " Show current line number
 set relativenumber             " Show relative line numbers
+
+
