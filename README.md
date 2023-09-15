@@ -5,9 +5,9 @@ To use this, clone this to home directory, on Mac `cd ~`
 Then rename the directory to .config
 
 ## Aliases
-alias ls="exa -la" \n
-alias vim="nvim" \n
-alias ..="cd .." \n
+alias ls="exa -la" \
+alias vim="nvim" \
+alias ..="cd .." \
 
 ## Tools
 - Kitty: Terminal emulator
