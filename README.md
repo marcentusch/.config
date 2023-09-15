@@ -7,7 +7,7 @@ Then rename the directory to .config
 ## Aliases
 alias ls="exa -la" \
 alias vim="nvim" \
-alias ..="cd .." \
+alias ..="cd .." 
 
 ## Tools
 - Kitty: Terminal emulator
