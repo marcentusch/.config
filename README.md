@@ -13,4 +13,5 @@ alias ..="cd .."
 - Kitty: Terminal emulator
 - NVIM: Text editor
 - Starship: shell prompt
+- gitui: TUI git client
 
