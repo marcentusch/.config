@@ -15,3 +15,8 @@ alias ..="cd .."
 - Starship: shell prompt
 - gitui: TUI git client
 
+
+## Color pallettes
+- https://lospec.com/palette-list/ayy4
+- https://lospec.com/palette-list/bumblebit
+- https://lospec.com/palette-list/1bit-styx
